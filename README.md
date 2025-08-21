@@ -23,7 +23,9 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 2. **Puertas cuánticas** → operaciones que modifican el estado de los qubits (Hadamard, CNOT, Pauli-X).  
 3. **Sistema de control** → microondas, láseres o campos magnéticos que manipulan los qubits.  
 4. **Criogenia** → mantiene el sistema a temperaturas cercanas al **cero absoluto (-273 °C)**.  
-5. **Interfaz clásica** → traduce las instrucciones del usuario en operaciones cuánticas.  
+5. **Interfaz clásica** → traduce las instrucciones del usuario en operaciones cuánticas.
+6. ![Uploading image.png…]()
+
 
 ---
 ### 📌  Historia de la Computación Cuántica
