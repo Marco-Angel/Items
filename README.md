@@ -15,7 +15,7 @@ A diferencia de la computación clásica (basada en bits 0 y 1), la cuántica em
 - **Entrelazamiento**: correlación entre qubits aunque estén separados físicamente.  
 - **Interferencia cuántica**: refuerza las soluciones correctas y cancela las incorrectas.  
 - **Medición probabilística**: los resultados se obtienen con cierta probabilidad.  
-
+---
 ### 📌  Arquitectura de un Computador Cuántico
 Un computador cuántico está compuesto por varias partes fundamentales:
 
@@ -27,8 +27,8 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 
 📷 Ejemplo de arquitectura (ver carpeta `img/arquitectura.png`).
 
-
-### 📌 3. Historia de la Computación Cuántica
+---
+### 📌  Historia de la Computación Cuántica
 
 - **1981**: Richard Feynman propone simular sistemas cuánticos con computadoras.  
 - **1985**: David Deutsch define el concepto de **computadora cuántica universal**.  
@@ -48,7 +48,7 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 
 ---
 
-## 📌 4. Conceptos Fundamentales
+### 📌 4. Conceptos Fundamentales
 
 🔹 **Superposición** → permite que un qubit represente múltiples estados a la vez.  
 🔹 **Entrelazamiento** → genera correlación instantánea entre qubits.  
