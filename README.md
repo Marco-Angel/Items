@@ -1,13 +1,12 @@
-# Items
--Computación cuantica. 
-# 💻 Tarea 2 - Computación Cuántica
 
-Este repositorio contiene la investigación del **Primer Punto** sobre Computación Cuántica.  
-Se organiza en diferentes secciones para comprender sus fundamentos, arquitectura, historia, ventajas, desventajas y conceptos esenciales.
+
+# Items
+
+# 💻 Tarea 2 - Computación Cuántica
 
 ---
 
-## 📌 1. ¿Qué es la Computación Cuántica?
+### 📌 1. ¿Qué es la Computación Cuántica?
 La **computación cuántica** es un paradigma de la informática que utiliza los principios de la **mecánica cuántica** para procesar información.  
 A diferencia de la computación clásica (basada en bits 0 y 1), la cuántica emplea **qubits**, que pueden estar en **superposición** de estados.
 
@@ -19,7 +18,7 @@ A diferencia de la computación clásica (basada en bits 0 y 1), la cuántica em
 
 ---
 
-## 📌 2. Arquitectura de un Computador Cuántico
+### 📌 2. Arquitectura de un Computador Cuántico
 Un computador cuántico está compuesto por varias partes fundamentales:
 
 1. **Qubits** → unidad básica de información cuántica.  
