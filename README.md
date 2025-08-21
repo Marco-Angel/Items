@@ -24,8 +24,6 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 3. **Sistema de control** → microondas, láseres o campos magnéticos que manipulan los qubits.  
 4. **Criogenia** → mantiene el sistema a temperaturas cercanas al **cero absoluto (-273 °C)**.  
 5. **Interfaz clásica** → traduce las instrucciones del usuario en operaciones cuánticas.  
-<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/a0fa0cf8-1d56-45a8-a606-90fc9a237b33" />
-
 
 ---
 ### 📌  Historia de la Computación Cuántica
@@ -48,7 +46,7 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 
 ---
 
-### 📌 4. Conceptos Fundamentales
+### 📌  Conceptos Fundamentales
 
 🔹 **Superposición** → permite que un qubit represente múltiples estados a la vez.  
 🔹 **Entrelazamiento** → genera correlación instantánea entre qubits.  
@@ -64,7 +62,7 @@ Ejemplos:
 
 ---
 
-## 📌 5. Referencias
+## 📌  Referencias
 
 - Nielsen, M. A., & Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press.  
 - IBM Quantum Experience → [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/)  
