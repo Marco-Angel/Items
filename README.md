@@ -25,7 +25,9 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 4. **Criogenia** → mantiene el sistema a temperaturas cercanas al **cero absoluto (-273 °C)**.  
 5. **Interfaz clásica** → traduce las instrucciones del usuario en operaciones cuánticas.  
 
-📷 Ejemplo de arquitectura (ver carpeta `img/arquitectura.png`).
+## Imagen ilustrativa
+
+![Procesador cuántico](img/chip.png)
 
 ---
 ### 📌  Historia de la Computación Cuántica
@@ -72,9 +74,8 @@ Ejemplos:
 - Preskill, J. (2018). *Quantum Computing in the NISQ era and beyond*.  
 
 ---
+# 💻 - Computador Neuromorfico
+---
 
-📂 Este repositorio contiene además:  
-- Carpeta `docs/` → con explicaciones extendidas.  
-- Carpeta `img/` → con imágenes ilustrativas.  
-- Documento `referencias.md` → listado detallado de fuentes.
+
 
