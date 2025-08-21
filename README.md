@@ -16,9 +16,7 @@ A diferencia de la computación clásica (basada en bits 0 y 1), la cuántica em
 - **Interferencia cuántica**: refuerza las soluciones correctas y cancela las incorrectas.  
 - **Medición probabilística**: los resultados se obtienen con cierta probabilidad.  
 
----
-
-### 📌 2. Arquitectura de un Computador Cuántico
+### 📌  Arquitectura de un Computador Cuántico
 Un computador cuántico está compuesto por varias partes fundamentales:
 
 1. **Qubits** → unidad básica de información cuántica.  
@@ -29,9 +27,8 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 
 📷 Ejemplo de arquitectura (ver carpeta `img/arquitectura.png`).
 
----
 
-## 📌 3. Historia de la Computación Cuántica
+### 📌 3. Historia de la Computación Cuántica
 
 - **1981**: Richard Feynman propone simular sistemas cuánticos con computadoras.  
 - **1985**: David Deutsch define el concepto de **computadora cuántica universal**.  
