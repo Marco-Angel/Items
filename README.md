@@ -75,8 +75,60 @@ Ejemplos:
 - Preskill, J. (2018). *Quantum Computing in the NISQ era and beyond*.  
 
 ---
-# 💻 - Computador Neuromorfico
+#  Computación Neuromórfica
 ---
+
+## 📌 ¿Qué es un computador neuromórfico?
+Un **computador neuromórfico** es un sistema diseñado para imitar el funcionamiento del cerebro humano, utilizando redes de **neuronas artificiales** implementadas en hardware especializado.  
+Estos sistemas están enfocados en tareas como:
+- Aprendizaje automático.  
+- Reconocimiento de patrones.  
+- Procesamiento en paralelo.  
+- Visión artificial e inteligencia artificial.  
+
+---
+
+## 🏗️ Arquitectura de un computador neuromórfico
+La arquitectura neuromórfica se basa en **unidades de procesamiento que actúan como neuronas** y se interconectan a través de sinapsis simuladas.  
+
+### 🔹 Ventajas
+- Bajo consumo energético.  
+- Procesamiento paralelo masivo.  
+- Mayor eficiencia en tareas de IA.  
+
+### 🔹 Desventajas
+- Complejidad en la programación.  
+- Aún está en fase de investigación.  
+- Costos elevados de desarrollo.  
+
+![Arquitectura neuromórfica](https://upload.wikimedia.org/wikipedia/commons/9/9b/Neuromorphic_computing.png)
+
+---
+
+## ⚙️ Hardware utilizado en la computación neuromórfica
+Existen distintos chips y plataformas diseñadas específicamente:
+
+- **IBM TrueNorth** → 1 millón de neuronas y 256 millones de sinapsis.  
+- **Intel Loihi** → procesador neuromórfico con aprendizaje en tiempo real.  
+- **SpiNNaker (University of Manchester)** → simula millones de neuronas biológicas.  
+
+Ejemplo de un **chip neuromórfico**:  
+![Chip neuromórfico](https://newsimg.bbc.co.uk/media/images/48118000/jpg/_48118372_chip.jpg)
+
+---
+
+## 🔎 Tipos de computación neuromórfica
+1. **Basada en hardware especializado** (chips neuromórficos).  
+2. **Basada en software** que simula redes neuronales en sistemas convencionales.  
+3. **Híbrida** (combinación de hardware y software).  
+
+---
+
+## 📚 Referencias
+- IBM Research. (2014). *TrueNorth Neurosynaptic System*. Disponible en: https://research.ibm.com  
+- Intel Labs. (2018). *Loihi: Intel’s Neuromorphic Research Chip*. Disponible en: https://www.intel.com  
+- Wikipedia. (2023). *Computación neuromórfica*. Disponible en: https://es.wikipedia.org/wiki/Computaci%C3%B3n_neurom%C3%B3rfica  
+- BBC News. (2011). *Brain-inspired computer chips*. Disponible en: https://www.bbc.com  
 
 
 
