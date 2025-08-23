@@ -102,7 +102,7 @@ La arquitectura neuromórfica se basa en **unidades de procesamiento que actúan
 - Aún está en fase de investigación.  
 - Costos elevados de desarrollo.  
 
-![Arquitectura neuromórfica](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitcl.es%2Fproyectos-regionales%2Fneuromorficos-eg-sistemas-neuromorficos-edge-computing%2F&psig=AOvVaw098O31QOnD7UZRb_Vvu6x2&ust=1756077020098000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo4uuGoo8DFQAAAAAdAAAAABAL))
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fitcl.es%2Fproyectos-regionales%2Fneuromorficos-eg-sistemas-neuromorficos-edge-computing%2F&psig=AOvVaw098O31QOnD7UZRb_Vvu6x2&ust=1756077020098000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo4uuGoo8DFQAAAAAdAAAAABAL
 
 ---
 
@@ -204,4 +204,49 @@ Por ejemplo: **CPU + GPU + FPGA + DSP**, donde cada uno resuelve partes de un pr
 - Hennessy, J. & Patterson, D. (2018). *Computer Architecture: A Quantitative Approach*. Morgan Kaufmann.
 - NVIDIA. [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/).
 - Khronos Group. [OpenCL Overview](https://www.khronos.org/opencl/).
+
+---
+# 🖥️ Computación en el Borde
+
+## 📌 ¿Qué es la computación de borde?
+La **computación de borde (Edge Computing)** es un paradigma de computación distribuida que acerca el procesamiento de datos a la ubicación donde estos se generan (sensores, dispositivos IoT, cámaras, etc.), en lugar de depender únicamente de un servidor central o la nube.  
+De esta forma, se reducen los tiempos de respuesta y el consumo de ancho de banda.
+
+---
+
+## 📖 Historia
+- **Años 1990-2000**: el modelo tradicional estaba basado en servidores centrales y *cloud computing*.  
+- **2006**: con la popularización de servicios en la nube (ejemplo: Amazon Web Services), el tráfico de datos creció exponencialmente.  
+- **2010 en adelante**: surge la necesidad de **procesar datos más cerca de la fuente** (IoT, automóviles inteligentes, salud en tiempo real).  
+- **Hoy**: la computación en el borde se integra con **IA, 5G y Big Data** para mejorar eficiencia y seguridad.
+
+---
+
+## ✅ Ventajas
+- **Menor latencia**: respuestas rápidas en tiempo real.  
+- **Optimización del ancho de banda**: menos datos enviados a la nube.  
+- **Mayor seguridad**: parte de los datos se procesan localmente, reduciendo vulnerabilidades.  
+- **Confiabilidad**: funciona incluso con conexiones intermitentes a internet.
+
+---
+
+## ❌ Desventajas
+- **Costos iniciales altos**: requiere hardware distribuido.  
+- **Mantenimiento complejo**: más nodos que supervisar.  
+- **Escalabilidad limitada** en comparación con la nube.  
+- **Riesgo de seguridad física**: los dispositivos en campo pueden ser vulnerables.
+
+---
+
+## 📊 Ejemplo gráfico
+![Arquitectura de Edge Computing](https://upload.wikimedia.org/wikipedia/commons/3/3b/Edge-computing-diagram.png)
+
+---
+
+## 📚 Referencias
+- OpenFog Consortium. *Edge Computing Reference Architecture*. 2017.  
+- Satyanarayanan, M. *The Emergence of Edge Computing*. Computer, IEEE, 2017.  
+- IBM Cloud: [¿Qué es la computación de borde?](https://www.ibm.com/mx-es/cloud/what-is-edge-computing)  
+- Cisco: [Understanding Edge Computing](https://www.cisco.com/c/en/us/solutions/what-is-edge-computing.html)  
+
 
