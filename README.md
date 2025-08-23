@@ -102,7 +102,7 @@ La arquitectura neuromórfica se basa en **unidades de procesamiento que actúan
 - Aún está en fase de investigación.  
 - Costos elevados de desarrollo.  
 
-![Arquitectura neuromórfica]([https://upload.wikimedia.org/wikipedia/commons/9/9b/Neuromorphic_computing.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitcl.es%2Fproyectos-regionales%2Fneuromorficos-eg-sistemas-neuromorficos-edge-computing%2F&psig=AOvVaw098O31QOnD7UZRb_Vvu6x2&ust=1756077020098000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo4uuGoo8DFQAAAAAdAAAAABAL))
+![Arquitectura neuromórfica](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitcl.es%2Fproyectos-regionales%2Fneuromorficos-eg-sistemas-neuromorficos-edge-computing%2F&psig=AOvVaw098O31QOnD7UZRb_Vvu6x2&ust=1756077020098000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo4uuGoo8DFQAAAAAdAAAAABAL))
 
 ---
 
