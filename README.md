@@ -24,9 +24,7 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 3. **Sistema de control** → microondas, láseres o campos magnéticos que manipulan los qubits.  
 4. **Criogenia** → mantiene el sistema a temperaturas cercanas al **cero absoluto (-273 °C)**.  
 5. **Interfaz clásica** → traduce las instrucciones del usuario en operaciones cuánticas.
-6. <p align="center">
-  <img src="[Chip cuántico](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/04/29/17143774460923.jpg)" />
-</p>
+6. 
 
 
 *Figura 1. Representación gráfica de un procesador cuántico.*
@@ -104,7 +102,7 @@ La arquitectura neuromórfica se basa en **unidades de procesamiento que actúan
 - Aún está en fase de investigación.  
 - Costos elevados de desarrollo.  
 
-![Arquitectura neuromórfica](https://upload.wikimedia.org/wikipedia/commons/9/9b/Neuromorphic_computing.png)
+![Arquitectura neuromórfica]([https://upload.wikimedia.org/wikipedia/commons/9/9b/Neuromorphic_computing.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitcl.es%2Fproyectos-regionales%2Fneuromorficos-eg-sistemas-neuromorficos-edge-computing%2F&psig=AOvVaw098O31QOnD7UZRb_Vvu6x2&ust=1756077020098000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDo4uuGoo8DFQAAAAAdAAAAABAL))
 
 ---
 
