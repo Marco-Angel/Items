@@ -25,9 +25,9 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 4. **Criogenia** → mantiene el sistema a temperaturas cercanas al **cero absoluto (-273 °C)**.  
 5. **Interfaz clásica** → traduce las instrucciones del usuario en operaciones cuánticas.
 6. <p align="center">
-  <img src="[http://some_place.com/image.png](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/04/29/17143774460923.jpg)" />
+  <img src="[Chip cuántico](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/04/29/17143774460923.jpg)" />
 </p>
-7. ![Chip cuántico]("" ) width="200" height="400"
+
 
 *Figura 1. Representación gráfica de un procesador cuántico.*
 
