@@ -82,7 +82,11 @@ Ejemplos:
 ## 📌 ¿Qué es un computador neuromórfico?
 Un **computador neuromórfico** es un sistema diseñado para imitar el funcionamiento del cerebro humano, utilizando redes de **neuronas artificiales** implementadas en hardware especializado.  
 Estos sistemas están enfocados en tareas como:
-- Aprendizaje automático.  
+- Aprendizaje automático.
+- <p align="right">
+  <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/91b4442b-9350-4bcd-b8a3-2f7da8a87c27" />
+</p>
+
 - Reconocimiento de patrones.  
 - Procesamiento en paralelo.  
 - Visión artificial e inteligencia artificial.  
@@ -95,15 +99,13 @@ La arquitectura neuromórfica se basa en **unidades de procesamiento que actúan
 ### 🔹 Ventajas
 - Bajo consumo energético.  
 - Procesamiento paralelo masivo.  
-- Mayor eficiencia en tareas de IA.  
+- Mayor eficiencia en tareas de IA.
 
 ### 🔹 Desventajas
 - Complejidad en la programación.  
 - Aún está en fase de investigación.  
 - Costos elevados de desarrollo.
-- <p align="right">
-  <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/91b4442b-9350-4bcd-b8a3-2f7da8a87c27" />
-</p>
+- 
 
 
 ---
