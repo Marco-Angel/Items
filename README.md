@@ -87,9 +87,7 @@ Estos sistemas están enfocados en tareas como:
 - Procesamiento en paralelo.  
 - Visión artificial e inteligencia artificial.
 
- <p align="center">
-  <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/91b4442b-9350-4bcd-b8a3-2f7da8a87c27" />
-</p>
+  <img width="400" height="600" alt="image" align="right" src="https://github.com/user-attachments/assets/91b4442b-9350-4bcd-b8a3-2f7da8a87c27" />
 
 
 
