@@ -177,8 +177,6 @@ Un ordenador biológico es un sistema de procesamiento que utiliza moléculas bi
 La **computación heterogénea** es un modelo de arquitectura en el cual se utilizan diferentes tipos de procesadores y aceleradores dentro de un mismo sistema para ejecutar tareas específicas de manera más eficiente.  
 Por ejemplo: **CPU + GPU + FPGA + DSP**, donde cada uno resuelve partes de un problema según sus fortalezas.
 
-<img src="img/heterogenea.png" alt="image" width="500"/>
-
 ---
 
 ## 🕒 Historia
@@ -186,6 +184,8 @@ Por ejemplo: **CPU + GPU + FPGA + DSP**, donde cada uno resuelve partes de un pr
 - **2006 en adelante**: aparición de **CUDA (NVIDIA)** y **OpenCL**, permitiendo aprovechar GPUs para cómputo científico.
 - **2010s**: integración de **SoC heterogéneos** (CPU + GPU en un chip).
 - **Actualidad**: uso en inteligencia artificial, Big Data, simulaciones científicas y dispositivos móviles.
+
+<img width="318" height="200" alt="image" align="right" src="https://github.com/user-attachments/assets/017c2adf-dce4-4393-b5cd-1610de67392d" />
 
 ---
 
@@ -195,7 +195,6 @@ Por ejemplo: **CPU + GPU + FPGA + DSP**, donde cada uno resuelve partes de un pr
 - Escalabilidad en aplicaciones científicas y de IA.
 - Reducción de costos al optimizar recursos.
 
-<img src="img/ventajas.png" alt="Ventajas" width="400"/>
 
 ---
 
@@ -205,7 +204,6 @@ Por ejemplo: **CPU + GPU + FPGA + DSP**, donde cada uno resuelve partes de un pr
 - Dependencia de frameworks específicos (CUDA, OpenCL).
 - Problemas de compatibilidad entre hardware heterogéneo.
 
-<img src="img/desventajas.png" alt="Desventajas" width="400"/>
 
 ---
 
