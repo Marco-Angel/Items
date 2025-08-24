@@ -150,8 +150,10 @@ Un ordenador biológico es un sistema de procesamiento que utiliza moléculas bi
 ## 🏗️ Arquitectura  
 - **Entrada:** Moléculas biológicas.  
 - **Procesamiento:** Reacciones bioquímicas (puertas lógicas biológicas).  
-- **Salida:** Cambios moleculares observables.  
+- **Salida:** Cambios moleculares observables.
+  <img width="400" height="350" alt="image" align="right" src="https://github.com/user-attachments/assets/f3f00f70-d863-4136-b6e1-e4d47ec1a518" />
 
+---
 ## 🔬 Tipos de ordenadores biológicos  
 1. Computadores de ADN.  
 2. Computadores celulares.  
