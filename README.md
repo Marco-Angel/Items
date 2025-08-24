@@ -101,7 +101,7 @@ La arquitectura neuromórfica se basa en **unidades de procesamiento que actúan
 - Complejidad en la programación.  
 - Aún está en fase de investigación.  
 - Costos elevados de desarrollo.  
-<img width="1024" height="508" alt="image" src="https://github.com/user-attachments/assets/91b4442b-9350-4bcd-b8a3-2f7da8a87c27" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/91b4442b-9350-4bcd-b8a3-2f7da8a87c27" />
 
 
 ---
