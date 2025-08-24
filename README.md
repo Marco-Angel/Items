@@ -90,6 +90,10 @@ Estos sistemas están enfocados en tareas como:
 - Procesamiento en paralelo.  
 - Visión artificial e inteligencia artificial.  
 
+
+
+
+
 ---
 
 ## 🏗️ Arquitectura de un computador neuromórfico
