@@ -177,7 +177,7 @@ Un ordenador biológico es un sistema de procesamiento que utiliza moléculas bi
 La **computación heterogénea** es un modelo de arquitectura en el cual se utilizan diferentes tipos de procesadores y aceleradores dentro de un mismo sistema para ejecutar tareas específicas de manera más eficiente.  
 Por ejemplo: **CPU + GPU + FPGA + DSP**, donde cada uno resuelve partes de un problema según sus fortalezas.
 
-<img src="img/heterogenea.png" alt="Computación Heterogénea" width="500"/>
+<img src="img/heterogenea.png" alt="image" width="500"/>
 
 ---
 
