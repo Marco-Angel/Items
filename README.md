@@ -224,6 +224,7 @@ De esta forma, se reducen los tiempos de respuesta y el consumo de ancho de band
 - **2006**: con la popularización de servicios en la nube (ejemplo: Amazon Web Services), el tráfico de datos creció exponencialmente.  
 - **2010 en adelante**: surge la necesidad de **procesar datos más cerca de la fuente** (IoT, automóviles inteligentes, salud en tiempo real).  
 - **Hoy**: la computación en el borde se integra con **IA, 5G y Big Data** para mejorar eficiencia y seguridad.
+<img width="400" height="512" alt="image" align= "right" src="https://github.com/user-attachments/assets/e4082f99-2233-4c5c-ba10-b9ffa437578f" />
 
 ---
 
@@ -240,11 +241,6 @@ De esta forma, se reducen los tiempos de respuesta y el consumo de ancho de band
 - **Mantenimiento complejo**: más nodos que supervisar.  
 - **Escalabilidad limitada** en comparación con la nube.  
 - **Riesgo de seguridad física**: los dispositivos en campo pueden ser vulnerables.
-
----
-
-## 📊 Ejemplo gráfico
-![Arquitectura de Edge Computing](https://upload.wikimedia.org/wikipedia/commons/3/3b/Edge-computing-diagram.png)
 
 ---
 
