@@ -62,6 +62,8 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 🔹 **Medición probabilística** → el estado final se obtiene con cierta probabilidad.  
 🔹 **Decoherencia** → pérdida de información cuántica por el entorno.  
 🔹 **Puertas cuánticas** → análogas a las lógicas clásicas, pero con operaciones cuánticas.  
+<img width="400" height="550" alt="image" align="right" src="https://github.com/user-attachments/assets/daad7a5a-35ac-4764-8ccc-5c79680957c0" />
+
 
 Ejemplos:
 - **Hadamard (H)**: crea superposición.  
