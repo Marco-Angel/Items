@@ -15,7 +15,7 @@ A diferencia de la computación clásica (basada en bits 0 y 1), la cuántica em
 - **Entrelazamiento**: correlación entre qubits aunque estén separados físicamente.  
 - **Interferencia cuántica**: refuerza las soluciones correctas y cancela las incorrectas.  
 - **Medición probabilística**: los resultados se obtienen con cierta probabilidad.
-<img width="200" height="563" alt="image" align="right" src="https://github.com/user-attachments/assets/5565f98e-a968-4b38-b245-257c18ad31bb" />
+<img width="400" height="563" alt="image" align="right" src="https://github.com/user-attachments/assets/5565f98e-a968-4b38-b245-257c18ad31bb" />
 
 ---
 ### 📌  Arquitectura de un Computador Cuántico
@@ -62,7 +62,7 @@ Un computador cuántico está compuesto por varias partes fundamentales:
 🔹 **Medición probabilística** → el estado final se obtiene con cierta probabilidad.  
 🔹 **Decoherencia** → pérdida de información cuántica por el entorno.  
 🔹 **Puertas cuánticas** → análogas a las lógicas clásicas, pero con operaciones cuánticas.  
-<img width="400" height="550" alt="image" align="right" src="https://github.com/user-attachments/assets/daad7a5a-35ac-4764-8ccc-5c79680957c0" />
+<img width="300" height="550" alt="image" align="right" src="https://github.com/user-attachments/assets/daad7a5a-35ac-4764-8ccc-5c79680957c0" />
 
 
 Ejemplos:
