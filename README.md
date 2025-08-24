@@ -107,9 +107,7 @@ La arquitectura neuromórfica se basa en **unidades de procesamiento que actúan
 - Complejidad en la programación.  
 - Aún está en fase de investigación.  
 - Costos elevados de desarrollo.
-- 
-
-
+  
 ---
 
 ## ⚙️ Hardware utilizado en la computación neuromórfica
@@ -185,7 +183,7 @@ Por ejemplo: **CPU + GPU + FPGA + DSP**, donde cada uno resuelve partes de un pr
 - **2010s**: integración de **SoC heterogéneos** (CPU + GPU en un chip).
 - **Actualidad**: uso en inteligencia artificial, Big Data, simulaciones científicas y dispositivos móviles.
 
-<img width="318" height="200" alt="image" align="right" src="https://github.com/user-attachments/assets/017c2adf-dce4-4393-b5cd-1610de67392d" />
+<img width="318" height="400" alt="image" align="right" src="https://github.com/user-attachments/assets/017c2adf-dce4-4393-b5cd-1610de67392d" />
 
 ---
 
