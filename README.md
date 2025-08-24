@@ -119,6 +119,8 @@ Ejemplo de un **chip neuromórfico**:
 - **Zeroth** : Aprovecha algoritmos de aprendizaje automatico
 - **Neuroon**: enfoca en la codificación en fase de neuronas oscilantes.
 - **Loihi 2**: El chip admite aprendizaje no supervisado y aprendizaje de refuerzo.
+- <img width="400" height="630" alt="image"  align="right" src="https://github.com/user-attachments/assets/f01fb73b-7c1e-4a7d-9c72-87ada25a3341" />
+
 
 ---
 
