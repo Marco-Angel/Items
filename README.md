@@ -155,11 +155,8 @@ Un ordenador biológico es un sistema de procesamiento que utiliza moléculas bi
 - 1994: Primer computador de ADN por Leonard Adleman.  
 - 2002: Puertas lógicas con ADN (Microsoft Research).  
 - 2013: Células programadas como circuitos lógicos (Stanford).  
-- 2017–actualidad: Avances en biología sintética.  
-
-## 📷 Imágenes  
-![Ejemplo Computador ADN](https://upload.wikimedia.org/wikipedia/commons/1/1d/DNA_double_helix_horizontal.png)
-
+- 2017–actualidad: Avances en biología sintética.
+---
 ## 📚 Referencias  
 - Adleman, L. (1994). Molecular computation of solutions to combinatorial problems. *Science*.  
 - Amos, M. (2019). Theoretical and Experimental DNA Computation. Springer.  
