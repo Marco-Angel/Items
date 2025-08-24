@@ -89,10 +89,6 @@ Estos sistemas están enfocados en tareas como:
 
   <img width="400" height="600" alt="image" align="right" src="https://github.com/user-attachments/assets/91b4442b-9350-4bcd-b8a3-2f7da8a87c27" />
 
-
-
-
-
 ---
 
 ## 🏗️ Arquitectura de un computador neuromórfico
@@ -120,7 +116,9 @@ Existen distintos chips y plataformas diseñadas específicamente:
 - **SpiNNaker (University of Manchester)** → simula millones de neuronas biológicas.  
 
 Ejemplo de un **chip neuromórfico**:  
-![Chip neuromórfico](https://newsimg.bbc.co.uk/media/images/48118000/jpg/_48118372_chip.jpg)
+- **Zeroth** : Aprovecha algoritmos de aprendizaje automatico
+- **Neuroon**: enfoca en la codificación en fase de neuronas oscilantes.
+- **Loihi 2**: El chip admite aprendizaje no supervisado y aprendizaje de refuerzo.
 
 ---
 
